@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Object Oriented Logging</string>
+    <string name="Timber.i">Timber.i</string>
+    <string name="Timber.d">Timber.d</string>
+    <string name="Timber.w">Timber.w</string>
+    <string name="Timber.e">Timber.e</string>
+</resources>
